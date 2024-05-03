@@ -53,7 +53,7 @@ const About = () => {
       id="about-page"
       // className="h-[80vh] sm:h-[80vh] md:h-[80vh] lg:h-[80vh]"
       // h-200vh sm:h-[120vh] md:h-[120vh]
-      className="about-page h-[120vh] sm:h-[120vh] md:h-[100vh] lg:h-[70vh]"
+      className="about-page h-[120vh] sm:h-[120vh] md:h-[100vh] lg:h-[70vh] mt-[6rem] md:mt-[3rem]"
     >
       <div className="about-page container">
         <div className="text-zone left-[1rem] w-[70%] sm:left-[5rem] sm:w-[100%] md:left-[9rem] md:w-[60%] lg:left-[12rem] lg:w-[45%]">
