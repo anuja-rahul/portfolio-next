@@ -1,11 +1,11 @@
-import Image from "next/image";
+import Layout from "./components/layout/Layout";
+// import "./App.scss";
+// import "./components/layout/index.scss";
 
 export default function Home() {
   return (
-    <main>
-      <h1>
-        HomePage
-      </h1>
-    </main>
+    <Layout>
+      <h1>Home page</h1>
+    </Layout>
   );
 }
