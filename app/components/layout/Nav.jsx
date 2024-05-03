@@ -15,7 +15,7 @@ const ActiveLink = ({ children, ...rest }) => {
   return (
     <Link
       {...rest}
-      className={clsx(isActive ? "active" : "", "nav-links my-1 mt-1")}
+      className={clsx(isActive ? "active" : "", "nav-links my-1 mt-1 mb-3")}
     >
       {children}
     </Link>

@@ -101,10 +101,10 @@ const About = () => {
           </div>
         </div>
         <div className="image-section">
-          <p className="text-balance text-6xl text-white">Something1_ </p>
-          <p className="text-balance text-6xl text-white">Something2_ </p>
-          <p className="text-balance text-6xl text-white">Something3_ </p>
-          <p className="text-balance text-6xl text-white">Something4_ </p>
+          <p className="text-balance text-6xl text-white">BullSh*t1_ </p>
+          <p className="text-balance text-6xl text-white">Pending   </p>
+          <p className="text-balance text-6xl text-white">BullSh*t3_ </p>
+          <p className="text-balance text-6xl text-white">Pending </p>
           
         </div>
       </div>
