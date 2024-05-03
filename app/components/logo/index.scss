@@ -1,0 +1,78 @@
+.logo-container {
+  z-index: 1;
+  width: 50rem;
+  height: 27.5rem;
+  position: absolute;
+  top: -25%;
+  //   right: 15%;
+  bottom: 0;
+  left: auto;
+  margin: auto;
+  opacity: 0;
+  pointer-events: none;
+
+  // TODO: FIx this
+
+  // .hover-container {
+  //   &:hover {
+  //     animation: bounce 1.2s;
+  //     animation-fill-mode: both;
+  //   }
+  // }
+
+  &::before {
+    animation: bounceInDown 1.5s;
+    animation-fill-mode: forwards;
+    content: "<svg>";
+    // content-visibility: hidden;
+    pointer-events: none;
+    font-family: "La Belle Aurore";
+    color: #bed754;
+    font-size: 18px;
+    position: absolute;
+    margin-top: -40px;
+    right: 10%;
+    opacity: 0.6;
+  }
+
+  &::after {
+    animation: bounceInUp 1.5s;
+        animation-fill-mode: forwards;
+    content: "</svg>";
+    pointer-events: none;
+    font-family: "La Belle Aurore";
+    color: #bed754;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 18px;
+    margin-left: auto;
+    right: 10%;
+    // animation: fadeIn 1s 1.7s backwards;
+    opacity: 0.6;
+  }
+
+  svg {
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    transform: rotateZ(-10deg) !important;
+  }
+
+  .solid-logo {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    opacity: 0;
+    transform: rotateZ(-10deg);
+    z-index: 1;
+  }
+}
+
+.svg-container {
+  stroke: #bed754;
+  stroke-width: 0.2rem;
+}

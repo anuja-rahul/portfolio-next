@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## <!--  -->
 
-## Getting Started
+![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/-next.js-000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?style=for-the-badge&logo=tailwindcss)
+![GSAP](https://img.shields.io/badge/-gsap-000?style=for-the-badge&logo=greensock)
 
-First, run the development server:
+# Portfolio 🌐🧑‍💻
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![GitHub](https://img.shields.io/github/forks/anuja-rahul/portfolio-next?style=for-the-badge&logo=github)
+&nbsp;
+![GitHub](https://img.shields.io/github/license/anuja-rahul/portfolio-next?style=for-the-badge&logo=github)
+&nbsp;
+![GitHub](https://img.shields.io/github/stars/anuja-rahul/portfolio-next?style=for-the-badge&logo=github)
+&nbsp;
+![Contributors](https://img.shields.io/github/contributors/anuja-rahul/portfolio-next?style=for-the-badge&logo=github)
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/anuja-rahul/portfolio-next?style=for-the-badge&logo=github)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[![Project-Status](https://img.shields.io/badge/Project%20Status-pending-yellow.svg)](https://github.com/anuja-rahul/portfolio-next)
+&nbsp;  
+[![Project-Version](https://img.shields.io/badge/Version-v0.1-green.svg)](https://github.com/anuja-rahul/portfolio-next)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<!--
+[![Project-Status](https://img.shields.io/badge/Project%20Status-Pending-yellow?style=for-the-badge&logo=github)](https://github.com/anuja-rahul/portfolio)
+&nbsp;
+![Repository Views](https://komarev.com/ghpvc/?username=anuja-rahul&label=Repository+Views&color=blueviolet)
+ -->
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### My personal portfolio site made using Vite, React, TailwindCSS, and GSAP.
 
-## Learn More
+### Visit Us: [here](https://anuja-rahul-portfolio.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [x] Module setup
+- [x] Tailwind config
+- [x] Prettier config
+- [x] Header (NavBar)
+- [x] page routing
+- [x] added color theme [#bed754, #e3651d, #005b41, #191919, #092635]
+- [x] background layout finished
+- [x] Hero Section (Working on it)
+- [x] Animated title
+- [x] About text
+- [ ] Footer
+- [ ] Testing and deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=portfolio&theme=nightowl)
