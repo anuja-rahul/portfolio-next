@@ -9,7 +9,7 @@ export const metadata = {
   authors: [{ name: "Anuja Rahul" }],
   creator: "Anuja Rahul",
   openGraph: {
-    images: "./favicon.png",
+    images: "./og-image.png",
     description:
       "Hello 👋, I'm a Web developer/ Software developer/ CS Undergraduate from Sri Lanka.",
   },
