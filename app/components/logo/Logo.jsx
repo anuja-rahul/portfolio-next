@@ -43,8 +43,8 @@ function Logo() {
           opacity: 0.8,
           duration: 1,
         },
-      )
-      // .to(solidLogoRef.current, { delay: 2 }, 2);
+      );
+    // .to(solidLogoRef.current, { delay: 2 }, 2);
 
     loop.fromTo(
       ".hover-container",
@@ -62,10 +62,12 @@ function Logo() {
     );
   }, []);
 
+  // hidden md:block
+
   return (
     <div
-      className="logo-container inline-block sm:right-[0%] sm:align-middle md:right-0 
-      lg:right-[15%] right-2 w-[40rem] h-[21.5rem] md:w-[50rem] md:h-[27.5rem]"
+      className="logo-container right-2 inline-block h-[21.5rem] w-[40rem] 
+      sm:right-[0%] sm:align-middle md:right-0 md:h-[27.5rem] md:w-[50rem] lg:right-[15%] "
       ref={bgRef}
     >
       <div className="hover-container">
