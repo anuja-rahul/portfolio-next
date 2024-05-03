@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
         y: 0,
         ease: "bounce.out",
       },
-      []
+      [],
     );
 
     // tl.fromTo(
