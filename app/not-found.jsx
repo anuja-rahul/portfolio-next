@@ -1,5 +1,4 @@
 "use client";
-import "./not-found.scss";
 
 // import Link from "next/link";
 import Layout from "./components/layout/Layout";
