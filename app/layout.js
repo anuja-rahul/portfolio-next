@@ -14,7 +14,7 @@ export const metadata = {
       "Hello 👋, I'm a Web developer/ Software developer/ CS Undergraduate from Sri Lanka.",
     images: [
       {
-        url: "https://github.com/anuja-rahul/portfolio-next/blob/main/public/og-image.png",
+        url: "https://anuja-rahul-portfolio.vercel.app/og-image.png",
         width: 1200,
         height: 600,
       },
