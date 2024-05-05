@@ -1,6 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -12,15 +12,6 @@ export const metadata = {
   openGraph: {
     description:
       "Hello 👋, I'm a Web developer/ Software developer/ CS Undergraduate from Sri Lanka.",
-    images: [
-      {
-        url: "https://anuja-rahul-portfolio.vercel.app/og-image.png",
-        width: 1200,
-        height: 600,
-      },
-    ],
-    locale: "en_US",
-    type: "website",
   },
   icons: {
     icon: "./favicon.png", // /public path
