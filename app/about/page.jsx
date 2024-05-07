@@ -100,11 +100,11 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div className="image-section">
-          <p className="text-balance text-6xl text-white">BullSh*t1_ </p>
-          <p className="text-balance text-6xl text-white">Pending   </p>
-          <p className="text-balance text-6xl text-white">BullSh*t3_ </p>
-          <p className="text-balance text-6xl text-white">Pending </p>
+        <div className="image-section hidden md:flex">
+          <p className="text-balance text-6xl text-white">Sample </p>
+          <p className="text-balance text-6xl text-white">Sample </p>
+          <p className="text-balance text-6xl text-white">Sample </p>
+          <p className="text-balance text-6xl text-white">Sample </p>
           
         </div>
       </div>
