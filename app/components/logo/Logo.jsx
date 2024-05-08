@@ -67,7 +67,7 @@ function Logo() {
   return (
     <div
       className="logo-container right-2 inline-block h-[21.5rem] w-[40rem] 
-      sm:right-[0%] sm:align-middle md:right-0 md:h-[27.5rem] md:w-[50rem] lg:right-[15%] "
+      before:opacity-0 after:opacity-0 sm:right-[0%] sm:align-middle md:right-0 md:h-[25.5rem] md:w-[47rem] md:pl-[5rem] md:before:opacity-[0.6] md:after:opacity-[0.6] lg:right-[15%]"
       ref={bgRef}
     >
       <div className="hover-container">
