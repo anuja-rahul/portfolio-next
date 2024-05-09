@@ -17,8 +17,8 @@ export const metadata = {
     icon: "./favicon.png", // /public path
   },
   openGraph: {
-    url: "./opengraph-image.png",
-  }
+    url: "https://anuja-rahul-portfolio.vercel.app/",
+  },
 };
 
 export default function RootLayout({ children }) {

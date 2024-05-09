@@ -1,5 +1,9 @@
 import Layout from "../components/layout/Layout";
 
+export const metadata = {
+  title: "Anuja Rahul - Contact",
+};
+
 const Contact = () => {
   return (
     <Layout>
