@@ -14,7 +14,7 @@ export const metadata = {
       "Hello 👋, I'm a Web developer/ Software developer/ CS Undergraduate from Sri Lanka.",
   },
   icons: {
-    icon: "./favicon.png", // /public path
+    icon: "./favicon.png", //public path
   },
   openGraph: {
     url: "https://anuja-rahul-portfolio.vercel.app/",
