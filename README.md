@@ -27,7 +27,7 @@
 ![Repository Views](https://komarev.com/ghpvc/?username=anuja-rahul&label=Repository+Views&color=blueviolet)
  -->
 
-#### My personal portfolio site made using Vite, React, TailwindCSS, and GSAP.
+#### My personal portfolio site made using NextJS and GSAP.
 
 ### Visit Us: [here](https://anuja-rahul-portfolio.vercel.app/)
 
@@ -48,4 +48,4 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=portfolio&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=portfolio-next&theme=nightowl)
